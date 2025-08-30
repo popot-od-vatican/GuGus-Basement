@@ -41,6 +41,6 @@ Koga playerot ja krsi drvenata vrata so sekira pravi zkuv i go povikuva GuGu
 - Vault door animation.
 - New decals.
 - Fixed bug(decals drawn to enemy characters).
-- Fixed bug(mouse does not disappear anymore when clicking inside a menu).
+- Fixed bug(cursor does not disappear anymore when clicking inside a menu).
 - Improved FOV slider option(FOV slider does not have decimal points anymore).
 - Feature added(can exit menus with the ESCAPE button).
