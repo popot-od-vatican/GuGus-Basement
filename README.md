@@ -21,7 +21,7 @@ Koga playerot ja krsi drvenata vrata so sekira pravi zkuv i go povikuva GuGu
 - Scripted Jumpscare
 - Drop Items
 - New Sound Effects
-- 
+
 # Red Pill Gambling And Tunnels Update(28.8.2025) Alpha Version 1.0
 - Hidden Room
 - Tunnels
