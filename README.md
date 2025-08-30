@@ -37,10 +37,10 @@ Koga playerot ja krsi drvenata vrata so sekira pravi zkuv i go povikuva GuGu
 - Press the keys in the following order: 'O' -> 'K', to decreases the player's movement speed by 15%(You can use this multiple times).
 
 # Minor Update(30.8.2025) Alpha Version 1.0
-- Toggle flashlight(Press the 'F' to toggle the flashlight).
+- Toggle flashlight(Press the 'F' key to toggle the flashlight).
 - Vault door animation.
 - New decals.
 - Fixed bug(decals drawn to enemy characters).
 - Fixed bug(mouse does not disappear when clicking inside a menu).
-- Improved FOV slider option(does not have decimal places anymore).
+- Improved FOV slider option(FOV slider does not have decimal places anymore).
 - Feature added(can exit menus with the ESCAPE button).
