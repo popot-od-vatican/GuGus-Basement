@@ -42,5 +42,5 @@ Koga playerot ja krsi drvenata vrata so sekira pravi zkuv i go povikuva GuGu
 - New decals.
 - Fixed bug(decals drawn to enemy characters).
 - Fixed bug(mouse does not disappear when clicking inside a menu).
-- Improved FOV slider option(FOV slider does not have decimal places anymore).
+- Improved FOV slider option(FOV slider does not have decimal points anymore).
 - Feature added(can exit menus with the ESCAPE button).
